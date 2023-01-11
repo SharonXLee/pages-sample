@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## Welcome everyone to my first GitHub pape")
 
 
 #### Here are some example pages:
